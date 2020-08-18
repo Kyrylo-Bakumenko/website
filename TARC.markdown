@@ -4,15 +4,17 @@ title: TARC
 permalink: /TARC/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## What is Team America Rocketry Challenge?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Team America Rocketry Challenge (TARC) is a national rocketry competition in the US.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+> "The American Rocketry Challenge is the world’s largest rocket contest with nearly 5,000 students nationwide 
+> competing each year. The contest gives middle and high school students the opportunity to design, build and 
+> launch model rockets and hands-on experience solving engineering problems."
+_Read more at [About TARC](https://rocketcontest.org/about/)_
 
+## Who are *The Three Rocketeers*?
 
-[jekyll-organization]: https://github.com/jekyll
+The Three Rocketeers is the first team to compete in TARC from Summit High School (SHS), Summit, New Jersey.
+
+# Idk, this page isn't finished

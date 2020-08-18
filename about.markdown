@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: About Me!
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Hi! I'm Kyrylo Bakumenko
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm currently a highschool at *Summit High School* (SHS) who enjoys rocketry, mathematics, computer programming, and so much more!
+Feel free to browse my website for projects I have made in:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- **Rocketry**:
+  1. Team America Rocketry Challenge (TARC)
+  2. Record Attempt Rocket for C Class Motor
+- **Python Projects**:
+  - Artificial Intelligence and Machine Learning:
+     1. Emotion Recognition with Convolutional Neural Network
+     2. Camera App with Emotion Recognition
+     3. BlackJack AI through Q-Learning
+- **Art**:
+    - [Quintessence 2020]() & [Cover Art]()
